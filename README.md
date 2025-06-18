@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a curious and ready-to-learn computer science 
 - 🧠 Strong foundation in **Python**, **Rust**, **C++** , **C** **JavaScript**, **HTML/CSS**, and  **Java**
 - 🔐 Interested in **Network Security**, **Incident Response**, **Cybersecurity**, **Forensics**, **Machine Learning**, **Aritifcial Intelligence** , **Ethical Hacking** and **Software Engineering**
 - 🧪 Building and testing **AI/ML Modules** **Logistic Regression Models**, and **WASM apps**
-- ⚙️ Experienced in using tools like **Wireshark**, ****, **Autopsy**, and **Draw.io**
+- ⚙️ Experienced in using tools like **Wireshark**, **Autopsy**, and , **LucidChart**
 - 🐳 Embracing **Docker**, **Git**, 
 
 ---
