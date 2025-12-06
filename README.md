@@ -1,4 +1,4 @@
-# tobennaahanotu
+# Tobenna Ahanotu | Computer Science student at Morgan State University in Baltimore, MD.
 
 # 👋 Hi, I'm Tobenna Ahanotu
 
