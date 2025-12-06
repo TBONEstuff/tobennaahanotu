@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tobenna Ahanotu
 
-Welcome to my GitHub profile! I'm a curious and ready-to-learn computer science student with a strong focus on **Cybersecurity**, **Forensics**, **Machine Learning**, **Aritifcial Intelligence** , **Ethical Hacking** and **Software Engineering**. I love solving complex problems, building practical tools, and exploring how technology can be used to strengthen digital security and automate everyday tasks.
+Welcome to my GitHub profile! I'm a curious and ready-to-learn computer science student with a strong focus on **Cybersecurity**, **Forensics**, **Machine Learning**, **Aritifcial Intelligence** , **Ethical Hacking** , **Computer Science**, **Computer Programming** and **Software Engineering**. I love solving complex problems, building practical tools, and exploring how technology can be used to strengthen digital security and automate everyday tasks.
 
 ---
 
